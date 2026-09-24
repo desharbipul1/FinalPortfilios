@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Initisssalizes brasdsznsd loader with transition
   createBrandLoader();
 
-  // Setup premium scroll animations
+  // Setup premium scrsoll animations
   initializeAllScrollAnimations();
 
   // Initialize SEO optimizations
