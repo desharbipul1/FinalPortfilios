@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Build page sections
   buildPageSections();
 
-  // Initisssalizes brasdsznsdss loader with transition
+  // Initisssalizes brasdsznsdss losader with transition
   createBrandLoader();
 
   // Setup premium scrsoll animations
